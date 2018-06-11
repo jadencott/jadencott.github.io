@@ -12,9 +12,12 @@ body{
 
 #basic-info{
   position: absolute;
-  left:10px;
-  color:gray;
-  background-color:#f7def1
+  left:0px;
+  color:black;
+  bottom:500px;
+  background-color:white;
+  border: 10px solid #021a40 ;
+  border-color: #f7def1
   
 }
 
@@ -32,19 +35,22 @@ body{
   right:700px;
   left:;
   width:24%;
-  color:gray;
-  background-color:#f7def1;
+  color:black;
+  background-color:white;
+  border:10px solid #021a40;
+  border-color:#f7def1
 }
 
 
 #image-1{
   position:fixed;
-  bottom:150px;
+  bottom:0px;
   height:350px;
-  left:110px;
+  left:0px;
   padding:1px;
-  border:10px #f7def1 ;
- 
-  
-}
+  border:10px solid #021a40;
+  border-color:#f7def1;;
+  }
+
+
 
