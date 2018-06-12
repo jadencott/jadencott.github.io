@@ -14,7 +14,7 @@ body{
   position: absolute;
   left:0px;
   color:black;
-  bottom:500px;
+  bottom:360px;
   background-color:white;
   border: 10px solid #021a40 ;
   border-color: #f7def1
@@ -31,14 +31,15 @@ body{
 #about-me-p{
   text-align:center;
   position:fixed;
-  bottom:300px;
-  right:700px;
-  left:;
-  width:24%;
+  bottom:0px;
+  left:370px;
+  width:440px;
+  height:325px;
   color:black;
   background-color:white;
   border:10px solid #021a40;
   border-color:#f7def1
+  border-bottom:20px ;
 }
 
 
